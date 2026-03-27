@@ -65,3 +65,8 @@ When the ball overlaps with the goal area:
 2. Turn on **USB Debugging**
 3. Connect the device to your computer
 4. Run the app from Android Studio
+
+---
+
+## AI Usage
+I used ChatGPT to help understand sensor usage and troubleshoot some issues during development. The final implementation, design decisions, and testing were completed independently.
